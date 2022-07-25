@@ -1,0 +1,14 @@
+body{
+    padding: 10px 20%;
+}
+
+
+input,label,.date-time-picker {
+    margin: 5px auto;
+    padding: 8px;
+}
+
+input{
+    margin: 0 5px;
+    width: 20em;
+}

@@ -1,0 +1,85 @@
+.main {
+    width: 45%;
+    margin: 2% auto;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.amazon-card {
+    box-shadow: 2px 2px 5px #aaaaaa;
+    margin: 0 auto;
+}
+
+.amazon-card img {
+    padding: 3px 0px;
+    margin: 0 35%;
+    width: 30%;
+    height: 10%;
+}
+
+.login-page {
+    padding: 0 20%;
+}
+
+.login-page h1{
+    color: rgb(38, 179, 38);
+    text-align: center;
+}
+
+.login-page img {
+    margin: 0px 25%;
+    width: 50%;
+    height: 20%;
+}
+
+.input-fields input[placeholder] {
+    color: green;
+}
+
+.input-fields input{
+    margin: 5px 0;
+    border: none;
+    border-bottom: 2px solid lightgrey;
+    width: 100%;
+}
+
+.input-fields button {
+    margin: 10px 0;
+    height: 40px;
+    width: 100%;
+    background-color: rgb(38, 179, 38);
+    color: white;
+    border-radius: 50px;
+}
+
+.login-options {
+    display: flex;
+    justify-content: space-between;
+}
+
+.newUser {
+    color: red;
+}
+
+.or{
+    text-align: center;
+}
+
+.google-link , .facebook-link {
+    background-color: rgb(50, 73, 173);
+    text-align: center;
+    color: white;
+    padding: 1.5px 0;
+    margin: 8px 0;
+}
+
+
+@media(max-width:876px) {
+    .main {
+        width: 80%;
+    }
+
+    .login-page {
+        padding: 0 5%;
+    }    
+}

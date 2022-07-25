@@ -1,0 +1,15 @@
+li{
+    list-style: none;
+    display: inline;
+}
+
+.videos-collection {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.videos-collection img {
+    border-radius: 50%;
+    padding: 10px;
+}

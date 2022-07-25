@@ -1,0 +1,62 @@
+[
+    {
+        "id":"1",
+        "image": "./images/meta trap house.jpg",
+        "name": "Meta Trap house",
+        "rating": "3",
+        "catagory": "temple",
+        "date": "12",
+        "month": "5",
+        "views":"500"
+    },
+    {
+        "id":"2",
+        "image": "./images/6529.png",
+        "name": "6529 AB + 1",
+        "rating": "2",
+        "catagory": "genesis",
+        "date": "9",
+        "month": "6",
+        "views":"800"
+    },
+    {
+        "id":"3",
+        "image": "./images/Cobinhood.png",
+        "name": "Cobinhood",
+        "rating": "5",
+        "catagory": "void",
+        "date": "12",
+        "month": "5",
+        "views":"300"
+    },
+    {
+        "id":"4",
+        "image": "./images/Van-Gogh-Alive-Gallery.jpg",
+        "name": "The Vincent Van Dough Gallery",
+        "rating": "3",
+        "catagory": "temple",
+        "date": "15",
+        "month": "5",
+        "views":"100"
+    },
+    {
+        "id":"5",
+        "image": "./images/sandbox.jpg",
+        "name": "SANDBOX",
+        "rating": "5",
+        "catagory": "popular",
+        "date": "1",
+        "month": "6",
+        "views":"300"
+    },
+    {
+        "id":"6",
+        "image": "./images/wow summit.png",
+        "name": "WOW SUMMIT",
+        "rating": "4",
+        "catagory": "popular",
+        "date": "13",
+        "month": "6",
+        "views":"450"
+    }
+]
